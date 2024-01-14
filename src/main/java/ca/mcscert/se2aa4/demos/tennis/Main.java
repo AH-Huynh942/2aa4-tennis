@@ -10,6 +10,8 @@ import org.apache.log4j.Logger;
 
 public class Main {
 
+    public static String testing;
+
     public static int PLAYER1_STRENGTH;
     public static int PLAYER2_STRENGTH;
 
